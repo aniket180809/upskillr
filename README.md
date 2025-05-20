@@ -1,4 +1,4 @@
-# 📘 UpSkillr – AI-Powered Course Recommender
+
 
 UpSkillr is a web application that recommends online courses based on a user's skill interests using AI. It leverages the MERN stack (MongoDB, Express, React, Node.js) and a Python-based AI microservice via Flask.
 
